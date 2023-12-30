@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetWheelRotation", "SetWheelRotation.csproj", "{FFB11074-29AD-4387-AA1B-BD602AB08950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB11074-29AD-4387-AA1B-BD602AB08950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB11074-29AD-4387-AA1B-BD602AB08950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB11074-29AD-4387-AA1B-BD602AB08950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB11074-29AD-4387-AA1B-BD602AB08950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77A9ECD8-8C46-4C45-9414-268C295D6B54}
+	EndGlobalSection
+EndGlobal

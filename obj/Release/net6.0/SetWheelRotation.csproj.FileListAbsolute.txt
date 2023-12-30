@@ -1,0 +1,38 @@
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.exe
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.deps.json
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.runtimeconfig.json
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.pdb
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\WindowsInput.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\TextCopy.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.csproj.AssemblyReference.cache
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.AssemblyInfoInputs.cache
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.AssemblyInfo.cs
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.csproj.CoreCompileInputs.cache
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.csproj.CopyComplete
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\refint\SetWheelRotation.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.pdb
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.genruntimeconfig.cache
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\ref\SetWheelRotation.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.exe
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.deps.json
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.runtimeconfig.json
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\SetWheelRotation.pdb
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\WindowsInput.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\TextCopy.dll
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.csproj.AssemblyReference.cache
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.AssemblyInfoInputs.cache
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.AssemblyInfo.cs
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.csproj.CoreCompileInputs.cache
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.csproj.CopyComplete
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.dll
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\refint\SetWheelRotation.dll
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.pdb
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\SetWheelRotation.genruntimeconfig.cache
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\ref\SetWheelRotation.dll

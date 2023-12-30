@@ -1,0 +1,484 @@
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.exe
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.deps.json
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.runtimeconfig.json
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.pdb
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\WindowsInput.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\TextCopy.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.AppContext.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Buffers.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Configuration.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Console.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Core.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Data.Common.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Data.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Drawing.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Globalization.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Linq.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Memory.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Http.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Security.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Numerics.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Json.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Transactions.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Web.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Windows.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\WindowsBase.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscorlib.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\netstandard.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\clretwrc.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\clrjit.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\coreclr.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\createdump.exe
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\dbgshim.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\hostfxr.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\hostpolicy.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscordaccore.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.1623.17311.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscordbi.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscorrc.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\msquic.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\ucrtbase.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.csproj.AssemblyReference.cache
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.GeneratedMSBuildEditorConfig.editorconfig
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.AssemblyInfoInputs.cache
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.AssemblyInfo.cs
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.csproj.CoreCompileInputs.cache
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.csproj.CopyComplete
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\refint\SetWheelRotation.dll
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.pdb
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.genruntimeconfig.cache
+F:\OneDrive - Viken fylkeskommune\0. Hjemme PC\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\ref\SetWheelRotation.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.exe
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.deps.json
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.runtimeconfig.json
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\SetWheelRotation.pdb
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\WindowsInput.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\TextCopy.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.CSharp.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.Core.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.VisualBasic.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.Win32.Primitives.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.Win32.Registry.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.AppContext.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Buffers.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.Concurrent.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.Immutable.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.NonGeneric.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.Specialized.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Collections.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.Annotations.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.DataAnnotations.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.EventBasedAsync.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.Primitives.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.TypeConverter.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ComponentModel.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Configuration.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Console.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Core.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Data.Common.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Data.DataSetExtensions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Data.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Contracts.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Debug.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.DiagnosticSource.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.FileVersionInfo.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Process.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.StackTrace.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.TextWriterTraceListener.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Tools.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.TraceSource.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Diagnostics.Tracing.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Drawing.Primitives.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Drawing.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Dynamic.Runtime.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Formats.Asn1.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Globalization.Calendars.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Globalization.Extensions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Globalization.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.Brotli.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.FileSystem.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.ZipFile.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.AccessControl.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.DriveInfo.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.Primitives.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.Watcher.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.FileSystem.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.IsolatedStorage.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.MemoryMappedFiles.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Pipes.AccessControl.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Pipes.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.UnmanagedMemoryStream.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Linq.Expressions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Linq.Parallel.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Linq.Queryable.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Linq.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Memory.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Http.Json.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Http.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.HttpListener.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Mail.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.NameResolution.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.NetworkInformation.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Ping.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Primitives.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Quic.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Requests.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Security.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.ServicePoint.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.Sockets.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebClient.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebHeaderCollection.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebProxy.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebSockets.Client.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.WebSockets.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Net.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Numerics.Vectors.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Numerics.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ObjectModel.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.CoreLib.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.DataContractSerialization.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.Uri.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.Xml.Linq.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Private.Xml.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.DispatchProxy.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Emit.ILGeneration.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Emit.Lightweight.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Emit.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Extensions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Metadata.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.Primitives.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.TypeExtensions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Reflection.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Resources.Reader.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Resources.ResourceManager.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Resources.Writer.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.CompilerServices.VisualC.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Extensions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Handles.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.InteropServices.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Intrinsics.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Loader.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Numerics.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Formatters.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Json.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Primitives.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.Xml.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.Serialization.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Runtime.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.AccessControl.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Claims.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Algorithms.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Cng.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Csp.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Encoding.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.OpenSsl.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.Primitives.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Cryptography.X509Certificates.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Principal.Windows.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.Principal.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.SecureString.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Security.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ServiceModel.Web.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ServiceProcess.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Encoding.CodePages.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Encoding.Extensions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Encoding.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Encodings.Web.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.Json.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Text.RegularExpressions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Channels.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Overlapped.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Tasks.Dataflow.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Tasks.Extensions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Tasks.Parallel.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Tasks.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Thread.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.ThreadPool.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.Timer.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Threading.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Transactions.Local.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Transactions.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.ValueTuple.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Web.HttpUtility.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Web.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Windows.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.Linq.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.ReaderWriter.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.Serialization.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XDocument.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XPath.XDocument.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XPath.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XmlDocument.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.XmlSerializer.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.Xml.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\WindowsBase.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscorlib.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\netstandard.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\API-MS-Win-core-xstate-l2-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\Microsoft.DiaSymReader.Native.x86.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\System.IO.Compression.Native.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-console-l1-2-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-datetime-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-debug-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-errorhandling-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-fibers-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-file-l1-2-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-file-l2-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-handle-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-heap-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-interlocked-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-libraryloader-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-localization-l1-2-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-memory-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-namedpipe-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-processenvironment-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-processthreads-l1-1-1.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-profile-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-rtlsupport-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-string-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-synch-l1-2-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-sysinfo-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-timezone-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-core-util-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-conio-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-convert-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-environment-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-filesystem-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-heap-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-locale-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-math-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-multibyte-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-private-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-process-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-runtime-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-stdio-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-string-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-time-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\api-ms-win-crt-utility-l1-1-0.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\clretwrc.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\clrjit.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\coreclr.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\createdump.exe
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\dbgshim.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\hostfxr.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\hostpolicy.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscordaccore.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscordaccore_x86_x86_6.0.1623.17311.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscordbi.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\mscorrc.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\msquic.dll
+F:\Programmering\C#\SetWheelRotation\bin\Release\net6.0\win-x86\ucrtbase.dll
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.csproj.AssemblyReference.cache
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.AssemblyInfoInputs.cache
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.AssemblyInfo.cs
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.csproj.CoreCompileInputs.cache
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.csproj.CopyComplete
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.dll
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\refint\SetWheelRotation.dll
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.pdb
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\SetWheelRotation.genruntimeconfig.cache
+F:\Programmering\C#\SetWheelRotation\obj\Release\net6.0\win-x86\ref\SetWheelRotation.dll
